@@ -1,4 +1,4 @@
-# ecommerce-sql-analysis
+# E-Commerce Sales Analysis (PostgreSQL)
 SQL project analyzing e-commerce sales data using PostgreSQL
 ## Project Overview 
 This project analyzes sales data of an e-commerce database using PostgreSQL.
